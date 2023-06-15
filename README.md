@@ -46,7 +46,6 @@ Each step in steps.py will have its communication history with GPT4 stored in th
 ## Demo
 
 
-
 https://github.com/AntonOsika/gpt-engineer/assets/4467025/6e362e45-4a94-4b0d-973d-393a31d92d9b
 
 
